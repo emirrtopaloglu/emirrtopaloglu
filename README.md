@@ -7,7 +7,8 @@ Software Developer
 I've been learning to code for 3 years, after graduating from university. I started with HTML, CSS and JS. I developed WordPress themes using PHP. I am currently interested in with mobile application development. I have a mobile app published on Play Store that I developed with Java & Kotlin. I am currently learning React & React Native.
 
 * 🌍  I'm based in Turkey
-* ✉️  You can contact me at [emirrttopaloglu@gmail.com](mailto:emirrttopaloglu@gmail.com)
+* ✉  You can contact me at [emirrttopaloglu@gmail.com](mailto:emirrttopaloglu@gmail.com)
+* 🧾  You can read my [CV](https://read.cv/emirtopaloglu)
 * 🚀  I'm currently working on [Spechy](http://spechy.net)
 * 🧠  I'm learning React & React Native
 * 🤝  I'm open to collaborating on interesting projects.
