@@ -9,7 +9,7 @@ I've been learning to code for 3 years, after graduating from university. I star
 * 🌍  I'm based in Turkey
 * ✉  You can contact me at [emirrttopaloglu@gmail.com](mailto:emirrttopaloglu@gmail.com)
 * 🧾  You can read my [CV](https://read.cv/emirtopaloglu)
-* 🚀  I'm currently working on [Spechy](http://spechy.net)
+* 🚀  I'm currently working at [Spechy](http://spechy.net)
 * 🧠  I'm learning React & React Native
 * 🤝  I'm open to collaborating on interesting projects.
 
