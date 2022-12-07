@@ -1,10 +1,10 @@
 Hi 👋 My name is Emir
 =====================
 
-Software Developer
+Frontend & Mobile Developer
 ------------------
 
-I've been learning to code for 3 years, after graduating from university. I started with HTML, CSS and JS. I developed WordPress themes using PHP. I am currently interested in with mobile application development. I have a mobile app published on Play Store that I developed with Java & Kotlin. I am currently learning React & React Native.
+I have been interested in software development for 3 years. I started with HTML, CSS, and JS. I developed WordPress themes and plugins using PHP. I am interested in frontend and mobile app development. I develop web applications with React and mobile applications with React Native. I also have an application published on the Play Store developed with Java and Kotlin.
 
 * 🌍  I'm based in Turkey
 * ✉  You can contact me at [emirrttopaloglu@gmail.com](mailto:emirrttopaloglu@gmail.com)
