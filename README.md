@@ -14,36 +14,17 @@ I have been interested in software development for 3 years. I started with HTML,
 * 🤝  I'm open to collaborating on interesting projects.
 
 <a href="https://www.twitter.com/emirrtopaloglu" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/emirrtopaloglu?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/emirrtopaloglu"
 /></a>
 
-### My Mobile Apps
+My Apps
+------------------
 
-<div align="center" style="display:flex;">
-  <div align="center">
-    <img width=150 src="https://raw.githubusercontent.com/emirrtopaloglu/emirrtopaloglu/main/app-screenshot-1.jpg">
-    <h3>Fitcare - Workout Planner</h3>
-    <div>
-      <a href="https://apps.apple.com/lt/app/fitcare-workout-planner/id6444746812">App Store</a>
-    </div>
-  </div>
-  <div align="center">
-    <img width=150 src="https://raw.githubusercontent.com/emirrtopaloglu/emirrtopaloglu/main/app-screenshot-3.jpg">
-    <h3>Moneymate - Budget Tracker</h3>
-    <div>
-      <a href="https://apps.apple.com/lt/app/moneymate-budget-tracking/id6449163346">App Store</a>
-      <br />
-      <a href="https://play.google.com/store/apps/details?id=com.emosto.moneymate">Play Store</a>
-    </div>
-  </div>
-    <div align="center">
-    <img width=150 src="https://raw.githubusercontent.com/emirrtopaloglu/emirrtopaloglu/main/app-screenshot-4.jpg">
-    <h3>Ünikolik - Sınav Asistanı (YKS)</h3>
-    <div>
-      <a href="https://play.google.com/store/apps/details?id=com.emirtopaloglu.unikolik">Play Store</a>
-    </div>
-  </div>
-</div>
+| Fitcare - Workout Planner | Moneymate - Budget Tracker | Ünikolik - Sınav Asistanı (YKS) |
+| --- | --- | --- |
+| ![Fitcare - Workout Planner](https://raw.githubusercontent.com/emirrtopaloglu/emirrtopaloglu/main/app-screenshot-1.jpg) | ![Moneymate - Budget Tracker](https://raw.githubusercontent.com/emirrtopaloglu/emirrtopaloglu/main/app-screenshot-3.jpg) | ![Ünikolik - Sınav Asistanı (YKS)](https://raw.githubusercontent.com/emirrtopaloglu/emirrtopaloglu/main/app-screenshot-4.jpg) |
+| <div align="center">[App Store](https://apps.apple.com/lt/app/fitcare-workout-planner/id6444746812)</div> | <div align="center">[App Store](https://apps.apple.com/lt/app/moneymate-budget-tracking/id6449163346) <br> [Play Store](https://play.google.com/store/apps/details?id=com.emosto.moneymate)</div> | <div align="center">[Play Store](https://play.google.com/store/apps/details?id=com.emirtopaloglu.unikolik)</div> |
+
 
 ### Skills
 
