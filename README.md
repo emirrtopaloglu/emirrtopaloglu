@@ -13,46 +13,68 @@ I have been interested in software development for 3 years. I started with HTML,
 * 🧠  I'm learning React & React Native
 * 🤝  I'm open to collaborating on interesting projects.
 
-<a href="https://www.twitter.com/emirrtopaloglu" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/emirrtopaloglu"
-/></a>
+<div align="center">
+  <h2>Skills</h3>
+
+<table>
+    <tr>
+        <td colspan="8">
+        <strong>Main Skills</strong>
+        </td>
+    </tr>
+      <tr>
+        <td colspan="8">
+        <img src="https://img.icons8.com/color/480/000000/javascript.png" width=48>
+        <img src="https://img.icons8.com/?size=512&id=NfbyHexzVEDk&format=png" width=48>
+          <img src="https://img.icons8.com/?size=512&id=13679&format=png" width=48>
+          <img src="https://img.icons8.com/color/480/000000/kotlin.png" width=48>
+                  <img src="https://img.icons8.com/?size=512&id=54087&format=png" width=48>
+          <img src="https://img.icons8.com/?size=512&id=20909&format=png" width=48>
+          <img src="https://img.icons8.com/?size=512&id=21278&format=png" width=48>
+          <img src="https://img.icons8.com/?size=512&id=zfHRZ6i1Wg0U&format=png" width=48>
+          <img src="https://img.icons8.com/?size=512&id=20906&format=png" width=48>
+                  <img src="https://img.icons8.com/?size=512&id=62452&format=png" width=48>
+        </td>
+    </tr>
+</table>
+</div>
 
 My Apps
 ------------------
 
-| Fitcare - Workout Planner | Moneymate - Budget Tracker | Ünikolik - Sınav Asistanı (YKS) |
+| <div align="center"><h3>Fitcare - Workout Planner</h3><span align="center">React Native + Firebase</span></div> | <div align="center"><h3>Moneymate - Budget Tracker</h3><span align="center">Expo + SQLite + Revenuecat</span></div>  | <div align="center"><h3>Ünikolik - Sınav Asistanı (YKS)</h3><span align="center">Kotlin + Firebase</span></div>  |
 | --- | --- | --- |
 | ![Fitcare - Workout Planner](https://raw.githubusercontent.com/emirrtopaloglu/emirrtopaloglu/main/app-screenshot-1.jpg) | ![Moneymate - Budget Tracker](https://raw.githubusercontent.com/emirrtopaloglu/emirrtopaloglu/main/app-screenshot-3.jpg) | ![Ünikolik - Sınav Asistanı (YKS)](https://raw.githubusercontent.com/emirrtopaloglu/emirrtopaloglu/main/app-screenshot-4.jpg) |
 | <div align="center">[App Store](https://apps.apple.com/lt/app/fitcare-workout-planner/id6444746812)</div> | <div align="center">[App Store](https://apps.apple.com/lt/app/moneymate-budget-tracking/id6449163346) <br> [Play Store](https://play.google.com/store/apps/details?id=com.emosto.moneymate)</div> | <div align="center">[Play Store](https://play.google.com/store/apps/details?id=com.emirtopaloglu.unikolik)</div> |
-
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-</p>
 
 
 ### Socials
 
 <p align="left"> <a href="https://www.dribbble.com/emirtopaloglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/emirrtopaloglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/emirrtopaloglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/emirtopaloglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@emirtopaloglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/emirrtopaloglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+### My Github Stats
 
-<b>My GitHub Stats</b>
+<br>
+<table>
+    <tr>
+        <td colspan="2">
+        <strong>Stats:</strong>
+        </td>
+        <td colspan="2">
+        <strong>Streak:<strong>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api?username=emirrtopaloglu&count_private=true&hide_border=true&show_icons=true&theme=radical">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=emirrtopaloglu&count_private=true&hide_border=true&show_icons=true&theme=radical">
+        </a>
+        </td>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=emirrtopaloglu&hide_border=true&theme=radical">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=emirrtopaloglu&hide_border=true&theme=radical">
+        </a>
+        </td>
+    </tr>
+</table>
 
-<a href="http://www.github.com/emirrtopaloglu"><img src="https://github-readme-stats.vercel.app/api?username=emirrtopaloglu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="emirrtopaloglu's GitHub stats" /></a>
-
-<a href="http://www.github.com/emirrtopaloglu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=emirrtopaloglu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/emirrtopaloglu"><img src="https://activity-graph.herokuapp.com/graph?username=emirrtopaloglu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/emirrtopaloglu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirrtopaloglu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
