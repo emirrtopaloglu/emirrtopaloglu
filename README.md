@@ -29,39 +29,7 @@ Frontend & Mobile Developer
 My Apps
 ------------------
 
-| <div align="center"><h3>Fitcare - Workout Planner</h3><span align="center">React Native + Firebase</span></div> | <div align="center"><h3>Moneymate - Budget Tracker</h3><span align="center">Expo + SQLite + Revenuecat</span></div>  | <div align="center"><h3>Ünikolik - Sınav Asistanı (YKS)</h3><span align="center">Kotlin + Firebase</span></div>  |
-| --- | --- | --- |
-| ![Fitcare - Workout Planner](https://raw.githubusercontent.com/emirrtopaloglu/emirrtopaloglu/main/app-screenshot-1.jpg) | ![Moneymate - Budget Tracker](https://raw.githubusercontent.com/emirrtopaloglu/emirrtopaloglu/main/app-screenshot-3.jpg) | ![Ünikolik - Sınav Asistanı (YKS)](https://raw.githubusercontent.com/emirrtopaloglu/emirrtopaloglu/main/app-screenshot-4.jpg) |
-| <div align="center">[App Store](https://apps.apple.com/lt/app/fitcare-workout-planner/id6444746812) <br> [Source Code](https://github.com/emirrtopaloglu/RN-Fitcare-App)</div> | <div align="center">[App Store](https://apps.apple.com/lt/app/moneymate-budget-tracking/id6449163346) <br> [Play Store](https://play.google.com/store/apps/details?id=com.emosto.moneymate)</div> | <div align="center">[Play Store](https://play.google.com/store/apps/details?id=com.emirtopaloglu.unikolik)</div> |
-
-
-### Socials
-
-<p align="left"> <a href="https://www.dribbble.com/emirtopaloglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/emirrtopaloglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/emirrtopaloglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/emirtopaloglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@emirtopaloglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/emirrtopaloglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### My Github Stats
-
-<br>
-<table>
-    <tr>
-        <td colspan="2">
-        <strong>Stats:</strong>
-        </td>
-        <td colspan="2">
-        <strong>Streak:<strong>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" rowspan="2">
-        <a href="https://github-readme-stats.vercel.app/api?username=emirrtopaloglu&count_private=true&hide_border=true&show_icons=true&theme=radical">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=emirrtopaloglu&count_private=true&hide_border=true&show_icons=true&theme=radical">
-        </a>
-        </td>
-        <td colspan="2" rowspan="2">
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=emirrtopaloglu&hide_border=true&theme=radical">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=emirrtopaloglu&hide_border=true&theme=radical">
-        </a>
-        </td>
-    </tr>
-</table>
-
+| <div align="center"><h3>ThunderNotes - AI Note Taker</h3><span align="center">Expo + AI</span></div> | <div align="center"><h3>Fitcare - Workout Planner</h3><span align="center">React Native + Firebase</span></div> | <div align="center"><h3>Moneymate - Budget Tracker</h3><span align="center">Expo + SQLite + Revenuecat</span></div>  | <div align="center"><h3>Ünikolik - Sınav Asistanı (YKS)</h3><span align="center">Kotlin + Firebase</span></div>  |
+| --- | --- | --- | --- |
+| ![ThunderNotes - AI Note Taker](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/d3/25/ccd325bd-5d18-5d04-c4b5-a7ba7fecf2bd/1.png/460x0w.webp) | ![Fitcare - Workout Planner](https://raw.githubusercontent.com/emirrtopaloglu/emirrtopaloglu/main/app-screenshot-1.jpg) | ![Moneymate - Budget Tracker](https://raw.githubusercontent.com/emirrtopaloglu/emirrtopaloglu/main/app-screenshot-3.jpg) | ![Ünikolik - Sınav Asistanı (YKS)](https://raw.githubusercontent.com/emirrtopaloglu/emirrtopaloglu/main/app-screenshot-4.jpg) |
+| <div align="center">[App Store](https://apps.apple.com/us/app/thundernotes-ai-note-taker/id6740700749) <br> [Play Store](https://play.google.com/store/apps/details?id=com.emosto.thundernotes)</div> | <div align="center">[App Store](https://apps.apple.com/lt/app/fitcare-workout-planner/id6444746812) <br> [Source Code](https://github.com/emirrtopaloglu/RN-Fitcare-App)</div> | <div align="center">[App Store](https://apps.apple.com/lt/app/moneymate-budget-tracking/id6449163346) <br> [Play Store](https://play.google.com/store/apps/details?id=com.emosto.moneymate)</div> | <div align="center">[Play Store](https://play.google.com/store/apps/details?id=com.emirtopaloglu.unikolik)</div> |
